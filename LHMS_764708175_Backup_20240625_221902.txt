@@ -1,0 +1,5 @@
+101|Wifi, Air Conditioning, LED TV|False|
+201|Mini Bar, LED TV, Room Service|True|John Smith
+203|Private Bathroom, Coffee Maker, Air Conditioning, LED TV|True|Steve Williams
+405|Mini Bar, Balcony, Wifi, Private Bathroom|True|Shawn Ricky 
+501|Room Service, LED TV, Wifi, Air Conditioning|False|
